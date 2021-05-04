@@ -5,5 +5,5 @@ L’objectif de ce projet est de s’intéresser à la matéralité des  objets 
 2. [Paragraphe1](#paragraph1)
     1. [subparagraph1](#subparagraph1)
 3. [paragraph2](#paragraph2)
-    6. [subparagraph1](#subparagrap2)
-    7. [subparagraph1](#subparagraph3)
+    1. [subparagraph1](#subparagrap2)
+    2. [subparagraph1](#subparagraph3)
