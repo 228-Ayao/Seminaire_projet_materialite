@@ -17,13 +17,13 @@ Lalalalalalala
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
 
-### Sub paragraph <a name="subparagraph1"></a>
+### Sous-Problématique 1 <a name="subparagraph1"></a>
 This is a sub paragraph, formatted in heading 3 style
-### Sub paragraph <a name="subparagraph2"></a>
+### Sous-Problématique 2 <a name="subparagraph2"></a>
 This is a sub paragraph, formatted in heading 3 style
-### Sub paragraph <a name="subparagraph3"></a>
+### Sous-Problématique 3 <a name="subparagraph3"></a>
 This is a sub paragraph, formatted in heading 3 style
-### Sub paragraph <a name="subparagraph4"></a>
+### Sous-Problématique 4<a name="subparagraph4"></a>
 This is a sub paragraph, formatted in heading 3 style
 
 
