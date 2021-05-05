@@ -22,7 +22,7 @@ En télechargement
 [Lien_A](https://228-ayao.github.io/Lien_A/)
 ### Sous-Problématique 2 <a name="subparagraph2"></a>
 En télechargement
-[lien_B](https://228-ayao.github.io/Lien_B/)
+[Lien_B](https://228-ayao.github.io/Lien_B/)
 ### Sous-Problématique 3 <a name="subparagraph3"></a>
 En télechargement
 ### Sous-Problématique 4<a name="subparagraph4"></a>
