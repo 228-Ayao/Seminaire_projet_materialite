@@ -7,7 +7,7 @@
     1. [Est-ce que l'époque influe sur les dimensions des oeuvres d'art léguées par la famille Rothschild ?](#subparagraph1)
     2. [Est-ce que le type de peinture utilisé est différent en fonction des dimensions ? / et en fonction de la date de création ?](#subparagraph2)
     3. [Peut-on représenter numériquement une oeuvre d'art à partir d'un objet du quotidien ?](#subparagraph3)
-    4. 3. [A déterminer](#subparagraph4)
+    4. [A déterminer](#subparagraph4)
   
 [Conclusion](#Conclusion)
   
