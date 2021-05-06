@@ -10,7 +10,10 @@
 [Conclusion](#Conclusion)
 
 ## Introduction <a name="introduction"></a>
-En télechargement
+D'un point de vue historique, les oeuvres d'art ont toujours eu une symbolique. 
+Pour ce projet, nous avons dû nous questionner sur la problématique de la matérialité, afin de savoir si au fur et à mesure du temps, ces oeuvres ont subi des mutations en termes de dimensions. 
+
+Résumé (contexte), présenter les jeux de données, présenter la problématique, nos axes de recherches.
 
 ## Problématique <a name="paragraph1"></a>
 Comment l'analyse du jeu de données permet-elle de mettre en avant la matérialisation des oeuvres d'art en fonction d'une approche historique ? 
