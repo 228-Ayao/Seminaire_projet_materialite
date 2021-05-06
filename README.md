@@ -1,7 +1,7 @@
 # Sommaire: 
 [Introduction](#introduction)<br>
-1. [Problématique: Comment l’analyse du jeu de données permet-elle de mettre en avant la matérialisation des œuvres d’art en fonction d’une approche historique ?](#paragraph1)<br>
-2. [Sous-Problématique:](#paragraph2)<br>
+1. [Problématique : Comment l’analyse du jeu de données permet-elle de mettre en avant la matérialisation des œuvres d’art en fonction d’une approche historique ?](#paragraph1)<br>
+2. [Sous-Problématiques :](#paragraph2)<br>
     2.1. [Est-ce que l'époque influe sur les dimensions des œuvres d'art ? ](#subparagraph1) <br>
     2.2. [Est-ce que le type de peinture utilisé est différent en fonction de l'époque ?](#subparagraph2) <br>
     2.3. [Comment représenter numériquement une œuvre d'art à partir d'un objet du quotidien ?](#subparagraph3)<br>
