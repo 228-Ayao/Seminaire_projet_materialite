@@ -50,7 +50,7 @@ Pour pouvoir répondre à notre problématique ainsi qu’à nos sous-questions 
 
 Nous avons donc nettoyé les données comme les données du champs artwork – DISPLAY_DATE_EXE_TXT qui correspond à la date de l’œuvre (qui était soit une date précise, soit un siècle, soit une « fourchette » de date). Pour optimiser ce champ, nous avons créé un nouveau champ « Date de l’œuvre » en mettent les dates au format numérique, puis créé un champ « Siècle » avec les dates du champ « Date de l’œuvre ». Cette action a permis d’optimiser les dates pour les visualisations en créant des siècles.
  
-![image1](https://user-images.githubusercontent.com/77028279/117581224-0f4ec600-b0fc-11eb-9357-b5805bb03d9c.jpg)
+<center> ![image1](https://user-images.githubusercontent.com/77028279/117581224-0f4ec600-b0fc-11eb-9357-b5805bb03d9c.jpg) </center>
 
 Nous avons modifié l’orthographe des enregistrements de certains champs, ajouté la majuscule sur les enregistrements et modifié certains titres de champs. Le travail, le plus long de ces 3 jours d’action sur OpenRefine a été de faire du data wrangling sur le champ « artwork -HAUTEUR » qui est la hauteur de l’œuvre et le champ « artwork- LARGEUR » qui est la largeur de l’œuvre d’art. La première action de ce travail a consisté à modifier certaines valeurs de ces champs en les convertissant de mètres à centimètres. Ce travail a été réalisé pour toutes les valeurs comprises entre 0.00 et 10 qui étaient majoritairement en mètres. Ces valeurs ont été vérifiées manuellement. La deuxième action sur ces champs était de compléter certaines valeurs des champs de la HAUTEUR et de La LARGEUR qui étaient absentes, comme le montre la photo ci-dessous.
  
