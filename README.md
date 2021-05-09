@@ -70,7 +70,7 @@ La visualisation des données des collections Rothschild consiste à la représe
 
 ## Résultats de recherche <a name="paragraph4"></a>
 **1.	Est-ce que le type d'œuvre collectionnée par la famille Rothschild évolue en fonction de l’époque ? <br>**
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/6068838"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/6068838"><script src="https://public.flourish.studio/resources/embed.js"></div>
  
 Le XVIIIème siècle est le siècle phare de la collection Rothschild. 
 Une première analyse du graphique, permet de déduire que la grande majorité de la collection est alimentée par des œuvres datant du XVIIIe siècle. Il y a 869 œuvres au total avec une majorité d’objet d’art européen (651), ou encore 146 meubles domestiques. Cette collection du XVIIIème est complétée en minorité par les autres types d’œuvres tels que les peintures, les dessins et les sculptures.
@@ -79,7 +79,7 @@ Il commence à y avoir une grande de plus large diversification des types d'œuv
 Les siècles les moins prolifiques en termes de collections sont respectivement le XXe, XIVe et le XVIIe siècle. 
 
 **2.	 Est-ce que le type de peinture utilisé est différent en fonction des dimensions ? <br>**
-<div class="flourish-embed flourish-scatter" data-src="visualisation/6068286"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/6068286"><script src="https://public.flourish.studio/resources/embed.js"></div>
  
 Les variables prises en compte dans cette visualisation sont la surface de chaque œuvre notée ici en centimètre carré (cm²) ainsi que la technique de peinture utilisée. 
 Une vingtaine de techniques sont utilisées dans la réalisation des œuvres de la collection Rothschild à savoir le polychrome qui offre de diverses couleurs, la céramique, la marqueterie qui utilise des placages de bois en plus d’autres matières, le ciselé, etc.
@@ -87,7 +87,7 @@ Il en ressort à partir du graphique que la grande majorité des peintures ont �
 Cependant il est difficile d’établir à partir de ces 2 types de peinture que ce sont celles qui ont les plus grandes dimensions car on ne possède pas assez de données. Par conséquent, on ne peut pas établir un constat général. À partir du corpus étudié, le type de technique utilisé pour la peinture n'influence pas vraiment leur dimension.
 
 **3.	Est-ce que l’époque influe sur les dimensions des œuvres d’art léguées par la famille Rothschild ? <br>**
-<div class="flourish-embed flourish-scatter" data-src="visualisation/6069072"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/6069072"><script src="https://public.flourish.studio/resources/embed.js"></div>
  
 Pour répondre à cette problématique nous avons croisé trois variables telles que la surface de l’œuvre, la période de création avec le siècle, en fonction du type d’œuvre. L’objectif est de mettre en exergue la concentration des d’œuvres selon les siècles.
 L’analyse du graphique montre que les œuvres de grande taille se situent principalement dans les siècles de grandes collections comme le XVIIIe siècle et les autres collections moins conséquentes sont composées des œuvres de petite taille.
