@@ -23,11 +23,11 @@
 
 
 # Sommaire :
-## Introduction
-## 1. [Présentation du séminaire/de notre sujet de recherche (la matérialité)]
-###   1.1. [définition de la matérialité ](#subparagraph1)
-###   2.1. [Contextualisation des oeuvres d'art en fonction de leur représentation en format numérique](#subparagraph2)
-## 2. [Présentation du corpus](#paragraph2)
+## Introduction (#introduction)
+## 1. Présentation du séminaire/de notre sujet de recherche (la matérialité)
+###   1.1. Définition de la matérialité (#subparagraph1)
+###   2.1. Contextualisation des oeuvres d'art en fonction de leur représentation en format numérique(#subparagraph2)
+## 2. Présentation du corpus(#paragraph2)
 ###    2.1. [Présentation du jeu de données utilisé, pourquoi on a choisi celui des collections de la famille Rothschild et pas les autres?](#subparagraph3)
 ###    2.2. [Présentation des champs, les données de ce jeu de données](#subparagraph4)
 ###    2.3. [Problématique](#subparagraph5)
