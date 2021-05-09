@@ -76,7 +76,7 @@ Le XVIIIème siècle est le siècle phare de la collection Rothschild.
 Une première analyse du graphique, permet de déduire que la grande majorité de la collection est alimentée par des œuvres datant du XVIIIe siècle. Il y a 869 œuvres au total avec une majorité d’objet d’art européen (651), ou encore 146 meubles domestiques. Cette collection du XVIIIème est complétée en minorité par les autres types d’œuvres tels que les peintures, les dessins et les sculptures.
 À l'inverse, on peut voir que la plupart des œuvres d'art collectionnées datant du XVe siècle et du XVIe siècle sont des sculptures et des peintures.
 Il commence à y avoir une grande de plus large diversification des types d'œuvre à partir du 18e siècle.
-Les siècles les moins prolifiques en termes de collections sont respectivement le XXe, XIVe et le XVIIe siècle. <br>
+Les siècles les moins prolifiques en termes de collections sont respectivement le XXe, XIVe et le XVIIe siècle. 
 
 **2.	 Est-ce que le type de peinture utilisé est différent en fonction des dimensions ? <br>**
 <div class="flourish-embed flourish-scatter" data-src="visualisation/6068286"><script src="https://public.flourish.studio/resources/embed.js"></div>
@@ -84,7 +84,7 @@ Les siècles les moins prolifiques en termes de collections sont respectivement 
 Les variables prises en compte dans cette visualisation sont la surface de chaque œuvre notée ici en centimètre carré (cm²) ainsi que la technique de peinture utilisée. 
 Une vingtaine de techniques sont utilisées dans la réalisation des œuvres de la collection Rothschild à savoir le polychrome qui offre de diverses couleurs, la céramique, la marqueterie qui utilise des placages de bois en plus d’autres matières, le ciselé, etc.
 Il en ressort à partir du graphique que la grande majorité des peintures ont été peintes à l'huile. Les peintures les plus proéminentes sont environ au nombre de deux. Il y a 2 peintures à fresque et un autre de type peinture à l’huile.
-Cependant il est difficile d’établir à partir de ces 2 types de peinture que ce sont celles qui ont les plus grandes dimensions car on ne possède pas assez de données. Par conséquent, on ne peut pas établir un constat général. À partir du corpus étudié, le type de technique utilisé pour la peinture n'influence pas vraiment leur dimension. <br>
+Cependant il est difficile d’établir à partir de ces 2 types de peinture que ce sont celles qui ont les plus grandes dimensions car on ne possède pas assez de données. Par conséquent, on ne peut pas établir un constat général. À partir du corpus étudié, le type de technique utilisé pour la peinture n'influence pas vraiment leur dimension. 
 
 **3.	Est-ce que l’époque influe sur les dimensions des œuvres d’art léguées par la famille Rothschild ? <br>**
 <div class="flourish-embed flourish-scatter" data-src="visualisation/6069072"><script src="https://public.flourish.studio/resources/embed.js"></div>
@@ -92,7 +92,7 @@ Cependant il est difficile d’établir à partir de ces 2 types de peinture que
 Pour répondre à cette problématique nous avons croisé trois variables telles que la surface de l’œuvre, la période de création avec le siècle, en fonction du type d’œuvre. L’objectif est de mettre en exergue la concentration des d’œuvres selon les siècles.
 L’analyse du graphique montre que les œuvres de grande taille se situent principalement dans les siècles de grandes collections comme le XVIIIe siècle et les autres collections moins conséquentes sont composées des œuvres de petite taille.
 On peut en déduire que les dimensions dépendent de la quantité des collections au cours des siècles et n’influe à aucun moment le choix des œuvres à travers les siècles. 
-Mais les siècles les moins prolifiques en termes de collection sont constitués essentiellement des œuvres de petites tailles. <br>
+Mais les siècles les moins prolifiques en termes de collection sont constitués essentiellement des œuvres de petites tailles. 
 
 ## Limites au projet de recherche, et pistes envisagées pour la suite <a name="paragraph5"></a>
 Le manque d’outils et de temps sont principalement les deux limites que nous avons rencontré dans la réalisation de ce projet de recherche.
