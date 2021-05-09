@@ -117,7 +117,7 @@ Ce travail avait pour but de répondre à la problématique suivante : « Est-ce
 Nous avons trouvé ce projet de recherche très intéressant et enrichissant d’un point de vue manipulation de données et d’étude de corpus sur les objets beaux-arts. Cependant, pour approfondir davantage l’analyse et pour répondre avec plus de précisions à nos problématiques, il nous aurait fallu plus de temps pour aller plus en profondeur dans nos recherches. 
 
 ## Annexes <a name="paragraph7"></a>
-[Cliquez ici pour accéder aux modifications réalisées sur OpenRefine.]( https://228-ayao.github.io/Lien_A/)
+[Cliquez ici pour accéder aux modifications réalisées sur OpenRefine.](https://228-ayao.github.io/Annexes/)
 
 
 
