@@ -19,7 +19,7 @@ De cette problématique en a découlé 4 autres sous-questions de recherche, qui
 2 - Est-ce que le type de peinture utilisé est différent en fonction des dimensions ? Et en fonction de la date de création ? <br>
 3 - Est-ce que l’époque influe sur les dimensions des œuvres d’art léguées par la famille Rothschild ? <br>
 4 - Peut-on représenter numériquement une œuvre d’art à partir d’un objet du quotidien ? <br>
-Tout au long de ce billet de recherche, des tâcherons de répondre à ces questions en y apportant le plus de réponses concrètes possibles, notamment en intégrant des datavisualisations.
+Tout au long de ce billet de recherche, nous tâcherons de répondre à ces questions en y apportant le plus de réponses concrètes possibles, notamment en intégrant des datavisualisations.
 
 Dès le début de ce projet, il a été primordial pour nous de nous interroger sur la notion de « matérialité ». Le CNRTL la définit de la façon suivante : « caractère de ce qui est matière ». Cette définition nous a particulièrement aidé dans notre processus créatif car elle a engendré d’autres recherches sur le terme de « matière ». Nous avons ainsi recensé plusieurs mots-clés pour catégoriser notre projet, naturellement liées à la notion de matérialité : « représentation spatiale », « dimensions », « matière », « symbolique », « temporalité ».
 
@@ -27,19 +27,19 @@ Dès le début de ce projet, il a été primordial pour nous de nous interroger 
 Le jeu de données que nous avons utilisé comporte les données liées aux collections de la famille Rothschild, dont les œuvres ont été léguées aux institutions publiques françaises. Ce n’est pas le seul jeu de données de l’INHA, en effet il y avait également la possibilité d’en utiliser deux autres : celui du répertoire des tableaux italiens des collections publiques françaises (RETIF) et celui du musée des monuments français d’Alexandre Lenoir. 
 Le choix du jeu de données de la famille Rothschild est lié au fait que l’on connaissait un peu le nom et l’histoire de cette famille. Nous pensions également que la collection d’œuvres d’arts lui appartenant était assez conséquente. Après discussions, nous avons rassemblé plus d’informations sur le jeu de données et nous avons appris que ce dernier était constitué de tous les lègues de cette famille à l’état français. 
 Le jeu de données de la famille Rothschild est composé de 1364 données. Au sein de ce corpus, nous trouvons des champs (des colonnes) qui caractérisent un objet, ces champs pouvant prendre des caractères comme : 
--	artwork -TITRE qui est le titre 
--	artwork -HAUTEUR qui est la hauteur
--	artwork- LARGEUR qui est la largeur de l’œuvre 
--	artwork – UNIQUE_KEY qui est l’ID de l’œuvre
--	artwork – DISPLAY_DATE_EXE_TXT qui est la date de l’œuvre
--	artwork – DISPLAY_MATIERE qui est la matière de l’objet
--	artwork -  URL qui est le lien URL de l’œuvre
--	artwork – DISPLAY_LIEU_CONSERV qui est le lieu de conservation de l’œuvremi
--	artwork -  IMG_DIRECT_ACCESS qui est l’URL de la vignette de l’objet
--	artwork – DISPLAY_DENOMINATION qui est le type d’œuvre
--	artwork – DISPLAY_PERSONNE_AUTEUR qui est l’auteur de l’oeuvre
--	artwork – DISPLAY_TECHNIQUE qui est la technique de l’objet 
--	artwork -DISPLAY_ROLE_AUTEUR qui est le rôle de l’auteur par rapport à l’œuvre
+**-	artwork -TITRE** qui est le titre 
+**-	artwork -HAUTEUR** qui est la hauteur
+**-	artwork- LARGEUR** qui est la largeur de l’œuvre 
+**-	artwork – UNIQUE_KEY** qui est l’ID de l’œuvre
+**-	artwork – DISPLAY_DATE_EXE_TXT** qui est la date de l’œuvre
+**-	artwork – DISPLAY_MATIERE** qui est la matière de l’objet
+**-	artwork -  URL** qui est le lien URL de l’œuvre
+**-	artwork – DISPLAY_LIEU_CONSERV** qui est le lieu de conservation de l’œuvremi
+**-	artwork -  IMG_DIRECT_ACCESS** qui est l’URL de la vignette de l’objet
+**-	artwork – DISPLAY_DENOMINATION** qui est le type d’œuvre
+**-	artwork – DISPLAY_PERSONNE_AUTEUR** qui est l’auteur de l’oeuvre
+**-	artwork – DISPLAY_TECHNIQUE** qui est la technique de l’objet 
+**-	artwork -DISPLAY_ROLE_AUTEUR** qui est le rôle de l’auteur par rapport à l’œuvre <br>
 Ces champs composent le jeu de données de la famille Rothschild et sont aussi présents dans les autres jeux de données. Ces informations dans les champs sont issues de la base de données des collections Rothschild dans les institutions publiques françaises se trouvant sur AGORHA. Ce site permet de consulter en ligne l’ensemble des données au sujet desquelles l’INHA travaille. 
 
 ## Méthodologie : <a name="paragraph3"></a>
