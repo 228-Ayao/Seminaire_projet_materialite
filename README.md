@@ -41,7 +41,7 @@
 ## 5. [Limites au projet de recherche, et pistes envisagées pour la suite.](#paragraph5)<br>
 ###    5.1. [Manque d'outils de visualisation](#subparagraph11) <br>
 ###    5.2. [Le manque de temps](#subparagraph12) <br>
-  
+ 
 ## [Conclusion](#Conclusion)
 
 
