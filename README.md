@@ -1,4 +1,4 @@
-<center><img src="https://agorha.inha.fr/inhaprod/servlet/PhotoManager?recordId=musee:MUS_PHOTO:578486&idocsId=ged:IDOCS:263679&resolution=MEDIUM&timeStamp=1372753552391&imageScale=L436"></center>
+<center><img src="https://www.chateau-mouton-rothschild.com/cellar/uploads/2013/02/originals.jpg"></center>
 
 # Sommaire :
 1. [Présentation du projet de recherche](#paragraph1) <br>
