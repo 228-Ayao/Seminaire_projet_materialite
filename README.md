@@ -55,7 +55,9 @@ Nous avons donc nettoyé les données comme les données du champs artwork – D
 
 Nous avons modifié l’orthographe des enregistrements de certains champs, ajouté la majuscule sur les enregistrements et modifié certains titres de champs. Le travail, le plus long de ces 3 jours d’action sur OpenRefine a été de faire du data wrangling sur le champ « artwork -HAUTEUR » qui est la hauteur de l’œuvre et le champ « artwork- LARGEUR » qui est la largeur de l’œuvre d’art. La première action de ce travail a consisté à modifier certaines valeurs de ces champs en les convertissant de mètres à centimètres. Ce travail a été réalisé pour toutes les valeurs comprises entre 0.00 et 10 qui étaient majoritairement en mètres. Ces valeurs ont été vérifiées manuellement. La deuxième action sur ces champs était de compléter certaines valeurs des champs de la HAUTEUR et de La LARGEUR qui étaient absentes, comme le montre la photo ci-dessous.
  
-<p align="center">![image2](https://user-images.githubusercontent.com/77028279/117581245-25f51d00-b0fc-11eb-96af-86e4ca744863.jpg)</p>
+<p align="center">
+ ![image2](https://user-images.githubusercontent.com/77028279/117581245-25f51d00-b0fc-11eb-96af-86e4ca744863.jpg)
+</p>
 
 
 Pour ajouter les valeurs manquantes, après discussion avec les encadrants (Dario Campagno, Benjamin Barbier, Nicolas Sauret et Antoine Courtin), la solution trouvée est la suivante : nous avons créé un ratio moyen des œuvres d’art en utilisant la formule suivante sur OpenRefine : cells["artwork - HAUTEUR"].value * 1.0 / cells["artwork - LARGEUR"].value * 1.0 (Hauteur * Largeur) et en créant un nouveau champs « Ratio ». Cependant pour bien ajouter des valeurs sur des données manquantes, il fallait respecter le siècle et le type de l’œuvre pour avoir une meilleure cohérence dans l’enrichissement des données, ce qui est passé par la mise en place d’un tableau Excel présentant les ratios calculés selon les œuvres d’art.
