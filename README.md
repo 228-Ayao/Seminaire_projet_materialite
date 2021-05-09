@@ -70,7 +70,7 @@ La visualisation des données des collections Rothschild consiste à la représe
 
 ## Résultats de recherche <a name="paragraph4"></a>
 **1.	Est-ce que le type d'œuvre collectionnée par la famille Rothschild évolue en fonction de l’époque ? <br>**
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/6068838"><script src="https://public.flourish.studio/resources/embed.js">
 Le XVIIIème siècle est le siècle phare de la collection Rothschild. 
 Une première analyse du graphique, permet de déduire que la grande majorité de la collection est alimentée par des œuvres datant du XVIIIe siècle. Il y a 869 œuvres au total avec une majorité d’objet d’art européen (651), ou encore 146 meubles domestiques. Cette collection du XVIIIème est complétée en minorité par les autres types d’œuvres tels que les peintures, les dessins et les sculptures.
 À l'inverse, on peut voir que la plupart des œuvres d'art collectionnées datant du XVe siècle et du XVIe siècle sont des sculptures et des peintures.
