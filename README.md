@@ -50,28 +50,24 @@ Pour pouvoir répondre à notre problématique ainsi qu’à nos sous-questions 
 
 Nous avons donc nettoyé les données comme les données du champs artwork – DISPLAY_DATE_EXE_TXT qui correspond à la date de l’œuvre (qui était soit une date précise, soit un siècle, soit une « fourchette » de date). Pour optimiser ce champ, nous avons créé un nouveau champ « Date de l’œuvre » en mettent les dates au format numérique, puis créé un champ « Siècle » avec les dates du champ « Date de l’œuvre ». Cette action a permis d’optimiser les dates pour les visualisations en créant des siècles.
  
- <p align="center">![image1](https://user-images.githubusercontent.com/77028279/117581224-0f4ec600-b0fc-11eb-9357-b5805bb03d9c.jpg)</p>
-
+![image1](https://user-images.githubusercontent.com/77028279/117581224-0f4ec600-b0fc-11eb-9357-b5805bb03d9c.jpg)
 
 Nous avons modifié l’orthographe des enregistrements de certains champs, ajouté la majuscule sur les enregistrements et modifié certains titres de champs. Le travail, le plus long de ces 3 jours d’action sur OpenRefine a été de faire du data wrangling sur le champ « artwork -HAUTEUR » qui est la hauteur de l’œuvre et le champ « artwork- LARGEUR » qui est la largeur de l’œuvre d’art. La première action de ce travail a consisté à modifier certaines valeurs de ces champs en les convertissant de mètres à centimètres. Ce travail a été réalisé pour toutes les valeurs comprises entre 0.00 et 10 qui étaient majoritairement en mètres. Ces valeurs ont été vérifiées manuellement. La deuxième action sur ces champs était de compléter certaines valeurs des champs de la HAUTEUR et de La LARGEUR qui étaient absentes, comme le montre la photo ci-dessous.
  
-<p align="center">
- ![image2](https://user-images.githubusercontent.com/77028279/117581245-25f51d00-b0fc-11eb-96af-86e4ca744863.jpg)
-</p>
-
+![image2](https://user-images.githubusercontent.com/77028279/117581245-25f51d00-b0fc-11eb-96af-86e4ca744863.jpg)
 
 Pour ajouter les valeurs manquantes, après discussion avec les encadrants (Dario Campagno, Benjamin Barbier, Nicolas Sauret et Antoine Courtin), la solution trouvée est la suivante : nous avons créé un ratio moyen des œuvres d’art en utilisant la formule suivante sur OpenRefine : cells["artwork - HAUTEUR"].value * 1.0 / cells["artwork - LARGEUR"].value * 1.0 (Hauteur * Largeur) et en créant un nouveau champs « Ratio ». Cependant pour bien ajouter des valeurs sur des données manquantes, il fallait respecter le siècle et le type de l’œuvre pour avoir une meilleure cohérence dans l’enrichissement des données, ce qui est passé par la mise en place d’un tableau Excel présentant les ratios calculés selon les œuvres d’art.
  
- <p align="center">![image3](https://user-images.githubusercontent.com/77028279/117581273-4c1abd00-b0fc-11eb-8962-8b645bd3f320.jpg)</p>
+![image3](https://user-images.githubusercontent.com/77028279/117581273-4c1abd00-b0fc-11eb-8962-8b645bd3f320.jpg)
 
 Ensuite, nous avons appliqué le ratio sur les données manquantes dans le champ « artwork – LARGUEUR » et en appliquant soit la formule suivante sur OpenRefine : cells["artwork - HAUTEUR"].value * 1.0 / 4.1666 ( Hauteur *1.0 / le ratio moyen = largeur ) soit en utilisant le diamètre de l’œuvre d’art (notamment pour la porcelaine), selon le type de l’objet et le siècle. Pour les données manquantes dans le champ « artwork – HAUTEUR », nous avons pris les données de la page URL de l’œuvre d’art et si on ne trouvait pas la donnée après discussion avec les encadrants, nous avons décidé d’éliminer du corpus les œuvres d’art dont la hauteur était absente, afin d’avoir des visualisations de données plus claires et avec toutes les données nécessaires.
 Pour finir sur le data wrangling, nous avons créé un champs supplémentaire : celui de la « Surface », permettant de visualiser l’aire des œuvres d’arts en utilisant une formule sur OpenRefine : cells["artwork - HAUTEUR"].value * cells["artwork - LARGEUR"].value (Hauteur * Largeur). 
  
-<p align="center">![image4](https://user-images.githubusercontent.com/77028279/117581284-5a68d900-b0fc-11eb-8dc9-12a5bdb24f62.jpg)</p>
+![image4](https://user-images.githubusercontent.com/77028279/117581284-5a68d900-b0fc-11eb-8dc9-12a5bdb24f62.jpg)
 
 Pour terminer sur la structuration des données sur OpenRefine, les données qui n’avaient pas suffisamment de données exploitables dans nos visualisations étaient au nombre de 270. Pour répondre à la problématique et à nos sous-questions de recherche, notre corpus final a donc été composé de 1094 enregistrements sur le jeu de données de la collection Rothschild. 
 
-<p align="center">![image5](https://user-images.githubusercontent.com/77028279/117581308-6bb1e580-b0fc-11eb-94f2-5f1bba84b424.jpg)</p>
+![image5](https://user-images.githubusercontent.com/77028279/117581308-6bb1e580-b0fc-11eb-94f2-5f1bba84b424.jpg)
 
 Après ce travail de data wrangling, nous avons pu passer à l’étape de la visualisation de l’information et à la réalisation des tests sur les formes de visualisations possibles. Les visualisations ont été réalisées sur l’outil Flourish qui permet de faire du storytelling et de mettre en avant les données pour répondre aux sous-problématiques.
 
