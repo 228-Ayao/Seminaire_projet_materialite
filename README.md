@@ -85,7 +85,7 @@ Il en ressort à partir du graphique que la grande majorité des peintures ont �
 Cependant il est difficile d’établir à partir de ces 2 types de peinture que ce sont celles qui ont les plus grandes dimensions car on ne possède pas assez de données. Par conséquent, on ne peut pas établir un constat général. À partir du corpus étudié, le type de technique utilisé pour la peinture n'influence pas vraiment leur dimension.
 
 **3.	Est-ce que l’époque influe sur les dimensions des œuvres d’art léguées par la famille Rothschild ? <br>**
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<script src="https://public.flourish.studio/resources/embed.js">
 Pour répondre à cette problématique nous avons croisé trois variables telles que la surface de l’œuvre, la période de création avec le siècle, en fonction du type d’œuvre. L’objectif est de mettre en exergue la concentration des d’œuvres selon les siècles.
 L’analyse du graphique montre que les œuvres de grande taille se situent principalement dans les siècles de grandes collections comme le XVIIIe siècle et les autres collections moins conséquentes sont composées des œuvres de petite taille.
 On peut en déduire que les dimensions dépendent de la quantité des collections au cours des siècles et n’influe à aucun moment le choix des œuvres à travers les siècles. 
