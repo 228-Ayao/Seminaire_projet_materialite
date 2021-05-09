@@ -1,37 +1,49 @@
 # Sommaire :
 [Introduction](#introduction)<br>
-1. [Problématique : <br> Comment l’analyse du jeu de données permet-elle de mettre en avant la matérialisation des œuvres d’art en fonction d’une approche historique ?](#paragraph1)<br>
-2. [Sous-Problématiques :](#paragraph2)<br>
-    2.1. [Est-ce que l'époque influe sur les dimensions des œuvres d'art ? ](#subparagraph1) <br>
-    2.2. [Est-ce que le type de peinture utilisé est différent en fonction de l'époque ?](#subparagraph2) <br>
-    2.3. [Comment représenter numériquement une œuvre d'art à partir d'un objet du quotidien ?](#subparagraph3)<br>
-    2.4. [Est-ce que le contexte de la collection va influencer la taille des œuvres d’art ?](#subparagraph4)<br>
+1. [Présentation du séminaire/de notre sujet de recherche (la matérialité)](#paragraph1) <br>
+    1.1. [définition de la matérialité ](#subparagraph1) <br>
+    2.1. [Contextualisation des oeuvres d'art en fonction de leur représentation en format numérique](#subparagraph2) <br>
+2. [Présentation du corpus](#paragraph2) <br>
+    2.1. [Présentation du jeu de données utilisé, pourquoi on a choisi celui des collections de la famille Rothschild et pas les autres?](#subparagraph3) <br>
+    2.2. [Présentation des champs, les données de ce jeu de données](#subparagraph4) <br>
+    2.3. [Problématique](#subparagraph5) <br>
+    2.4. [Sous-problématiques](#subparagraph6) <br>
+3. [Méthodologie :](#paragraph3)<br>
+    2.1. [Modification du corpus sur OpenRefine](#subparagraph7) <br>
+4. [Résultats de nos recherches (réponses aux sous-problématiques)](#paragraph4)<br>
+    4.1. [- Est-ce que l'époque influe sur les dimensions des œuvres d'art ?](#subparagraph8) <br>
+    4.2. [Est-ce que le type de peinture utilisé est différent en fonction de l'époque ?](#subparagraph9) <br>
+    4.2. [Comment représenter numériquement une œuvre d'art à partir d'un objet du quotidien ?](#subparagraph10)<br>
+5. [Limites au projet de recherche, et pistes envisagées pour la suite.](#paragraph5)<br>
+    5.1. [Manque d'outils de visualisation](#subparagraph11) <br>
+    5.2. [Le manque de temps](#subparagraph12) <br>
   
 [Conclusion](#Conclusion)
 
-## Introduction <a name="introduction"></a>
-D'un point de vue historique, les oeuvres d'art ont toujours eu une symbolique. 
-A l'ère du numérique, la perception des oeuvres d'art n'est pas mis en évidence sur nos ecrans. L'imagination des visiteurs des musées n'est pas assez sollicité  dans la présentaion qu'offre le numériuque actuellement. D'ou la question sur la matériamité des oeuvres d'art.
-Pour ce projet, nous avons dû nous questionner sur la problématique de la matérialité, afin de savoir si au fur et à mesure du temps, ces oeuvres ont subi des mutations en termes de dimensions. 
 
 
-Résumé (contexte), présenter les jeux de données, présenter la problématique, nos axes de recherches.
+# Sommaire :
+## Introduction
+## 1. [Présentation du séminaire/de notre sujet de recherche (la matérialité)]
+###   1.1. [définition de la matérialité ](#subparagraph1) <br>
+###   2.1. [Contextualisation des oeuvres d'art en fonction de leur représentation en format numérique](#subparagraph2) <br>
+## 2. [Présentation du corpus](#paragraph2) <br>
+###    2.1. [Présentation du jeu de données utilisé, pourquoi on a choisi celui des collections de la famille Rothschild et pas les autres?](#subparagraph3) <br>
+###    2.2. [Présentation des champs, les données de ce jeu de données](#subparagraph4) <br>
+###    2.3. [Problématique](#subparagraph5) <br>
+###    2.4. [Sous-problématiques](#subparagraph6) <br>
+## 3. [Méthodologie :](#paragraph3)<br>
+###    2.1. [Modification du corpus sur OpenRefine](#subparagraph7) <br>
+## 4. [Résultats de nos recherches (réponses aux sous-problématiques)](#paragraph4)<br>
+###    4.1. [- Est-ce que l'époque influe sur les dimensions des œuvres d'art ?](#subparagraph8) <br>
+###    4.2. [Est-ce que le type de peinture utilisé est différent en fonction de l'époque ?](#subparagraph9) <br>
+###    4.2. [Comment représenter numériquement une œuvre d'art à partir d'un objet du quotidien ?](#subparagraph10)<br>
+## 5. [Limites au projet de recherche, et pistes envisagées pour la suite.](#paragraph5)<br>
+###    5.1. [Manque d'outils de visualisation](#subparagraph11) <br>
+###    5.2. [Le manque de temps](#subparagraph12) <br>
+  
+## [Conclusion](#Conclusion)
 
-[Lien_A](https://228-ayao.github.io/Lien_A/)
-
-## Problématique <a name="paragraph1"></a>
-Comment l'analyse du jeu de données permet-elle de mettre en avant la matérialisation des oeuvres d'art en fonction d'une approche historique ? 
-### 2.1. Est-ce que l'époque influe sur les dimensions des oeuvres d'art ? <a name="subparagraph1"></a>
-
-### 2.2. Est-ce que le type de peinture utilisé est différent en fonction de l'époque ? <a name="subparagraph2"></a>
-
-### 2.3. Comment représenter numériquement une oeuvre d'art à partir d'un objet du quotidien ? <a name="subparagraph3"></a>
-
-### 2.4. Est-ce que le contexte de la collection va influencer la taille des oeuvres d'art ?<a name="subparagraph4"></a>
-
-
-## Conclusion <a name="Conclusion"></a>
-En télechargement
 
 
 
