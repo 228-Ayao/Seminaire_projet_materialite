@@ -1,7 +1,7 @@
 # Seminaire_projet_materialite
-L’objectif de ce projet est de s’intéresser à la matéralité des  objets beaux-arts et notamment la question des dimensions et  de la représentation visuel de cette information dans les  interfaces web.
+L’objectif de ce projet est de s’intéresser à la matérialité des  objets beaux-arts et notamment à la question des dimensions et  de la représentation visuelle de cette information dans les  interfaces web.
 #  Matérialité
-L’objectif de ce projet est de s’intéresser à la matéralité des  objets beaux-arts et notamment la question des dimensions et  de la représentation visuel de cette information dans les interfaces web.
+L’objectif de ce projet est de s’intéresser à la matérialité des  objets beaux-arts et notamment à la question des dimensions et  de la représentation visuelle de cette information dans les  interfaces web.
 # Sommaire: 
 1. [Introduction](#introduction)
 2. [Paragraphe1](#paragraph1)
